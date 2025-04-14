@@ -4,8 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=softwareaka&color=blue&theme=onedark)
 
-- 🔭 Currently working at Algoritm Education Center
-- 🌱 Learning Vue.js and React Native
-- 📫 How to reach me: [@softwareaka](https://t.me/softwareaka) on telegram
-- 😄 Pronouns: Softwareaka,
-- ⚡️ Fun fact: Flexible
+🔭 Currently working at: Algoritm Education Center
+
+🌱 Currently learning: Vue.js & React Native
+
+📫 Reach me on Telegram: @softwareaka
+
+😄 Pronouns: Softwareaka
+
+⚡️ Fun fact: I’m flexible and adaptable in both code and life!
