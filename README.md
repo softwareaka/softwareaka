@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=softwareaka&color=blue&theme=onedark)
 
-- 🔭 I’m currently working at Algoritm
+- 🔭 I’m currently working at Algoritm Edu
 - 🌱 I’m currently learning ElectronJS, React-native
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@softwareaka](https://t.me/softwareaka) on telegram
