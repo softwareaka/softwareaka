@@ -8,6 +8,4 @@
 
 📫 Reach me on Telegram: @softwareaka
 
-😄 Pronouns: Softwareaka
-
 ⚡️ Fun fact: I’m flexible and adaptable in both code and life!
